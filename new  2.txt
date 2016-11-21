@@ -1,0 +1,8 @@
+C++ program to implement Stack using Linked List
+http://proprogramming.org/c-program-to-implement-stack-using-linked-list/
+
+
+Stack implementation using linked list
+http://codereview.stackexchange.com/questions/33195/stack-implementation-using-linked-list
+
+
